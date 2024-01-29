@@ -29,7 +29,7 @@ python thingiscrape.py --help
 Example usage:
 
 ```
-python thingiscrape.py --search "yoda" --popular 1 --pages 2 --license "cc"
+python thingiscrape.py --search "yoda" --popular 1 --pages 2
 ```
 
 STL 3D model files will be downloaded to `./downloads/stls/` along with a json file containing the results from the request in `./downloads/json/`.
